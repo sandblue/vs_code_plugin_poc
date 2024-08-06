@@ -16,6 +16,9 @@
       {
         "command": "bffgenerator.helloWorld",
         "title": "Hello World"
+      },{
+        "command" : "bffgenerator.bffGenerate",
+        "title": "BFF BAAC AUTO GENERATE"
       }
     ]
   },
